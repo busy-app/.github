@@ -1,9 +1,9 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/dark_theme_banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="/profile/light_theme_banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/busy-app/.github/main/profile/dark_theme_banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/busy-app/.github/main/profile/light_theme_banner.png">
     <img
         alt="Banner with the BUSY logo, the text 'Official GitHub: Source code, tools & documentation', and a phone, a laptop and a BUSY Bar on the right."
-        src="/profile/light_theme_banner.png">
+        src="https://raw.githubusercontent.com/busy-app/.github/main/profile/light_theme_banner.png">
 </picture>
 
 ### Welcome to the official BUSY GitHub
